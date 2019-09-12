@@ -1,5 +1,5 @@
 ---
-path: test
+path: demo
 date: 2019-09-12T02:00:24.633Z
 title: Demo
 ---
