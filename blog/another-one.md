@@ -1,5 +1,5 @@
 ---
-path: new-post
+path: /new-post
 date: 2019-09-13T02:00:24.633Z
 title: New post
 ---
